@@ -1,0 +1,22 @@
+[
+  {
+    "repository" : "tekkenyu/device-xiaomi-msm8953-common",
+    "target_path": "device/xiaomi/msm8953-common",
+    "branch" : "test-2"
+  },
+  {
+    "repository" : "khusika/android_kernel_xiaomi_msm8953",
+    "target_path": "kernel/xiaomi/msm8953",
+    "branch" : "lineage-16.0-4.9"
+  },
+  {
+    "repository" : "tekkenyu/vendor-xiaomi-tissot",
+    "target_path": "vendor/xiaomi",
+    "branch" : "lineage-16.0_4.9"
+  },
+  {
+    "repository" : "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch" : "lineage-16.0"
+  }
+]
